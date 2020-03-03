@@ -9,7 +9,7 @@ end = '467'
 
 # sets vars for making requests
 url = 'https://lambda-treasure-hunt.herokuapp.com/api/adv'
-headers = {'Authorization': 'Token <your token>',
+headers = {'Authorization': 'Token c02338ada69c14265beabcc9c1f0db595301ac87',
            'Content-Type': 'application/json'}
 
 # opens map file
